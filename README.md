@@ -20,6 +20,12 @@ Instalando o pacote de criação de rotas:
 
 ### `yarn add react-router-dom`
 
+Instalando o pacote para estilização do projeto:
+
+### `yarn add styled-components`
+
+Instalando o plugin do VS Code para o styled-components chamado **_vscode-styled-components_**.
+
 Adicionar o arquivo **_.editorconfig_** usando o plugin do Vs code chamado **EditorConfig for VS Code**. Para criar o arquivo basta clicar botão direito do mouse e escolher a opção **generate .editorconfig**.
 
 Configurando do zero ESlint, apagar no arquivo **_package.json_** a configuração:
