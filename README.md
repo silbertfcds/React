@@ -22,7 +22,7 @@ Instalando o pacote de criação de rotas:
 
 Adicionar o arquivo **_.editorconfig_** usando o plugin do Vs code chamado **EditorConfig for VS Code**. Para criar o arquivo basta clicar botão direito do mouse e escolher a opção **generate .editorconfig**.
 
-Configurando do zero ESlint, apagar no arquivo package.json a configuração:
+Configurando do zero ESlint, apagar no arquivo **_package.json_** a configuração:
 
     "eslintConfig": {
         "extends": "react-app"
