@@ -24,6 +24,10 @@ Instalando o pacote para estilização do projeto:
 
 ### `yarn add styled-components`
 
+Instalando o pacote para utilizar icons:
+
+### `yarn add react-icons`
+
 Instalando o plugin do VS Code para o styled-components chamado **_vscode-styled-components_**.
 
 Adicionar o arquivo **_.editorconfig_** usando o plugin do Vs code chamado **EditorConfig for VS Code**. Para criar o arquivo basta clicar botão direito do mouse e escolher a opção **generate .editorconfig**.
